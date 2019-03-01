@@ -1,6 +1,6 @@
 # DS2_tallerORM
 Guía para realizar las pruebas con Postman
-Nota: se utilizar Postam para escritorio para Windows
+Nota: se utiliza Postam para escritorio para Windows
 
 1. Ejecutar Postman
 ![Screenshot](https://github.com/juanchotello98/DS2_tallerORM/blob/master/images/Captura-1.JPG)
