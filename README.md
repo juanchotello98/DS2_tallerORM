@@ -1,2 +1,2 @@
 # DS2_tallerORM
-![Screenshot](images/Captura.jpg)
+![Screenshot](https://github.com/juanchotello98/DS2_tallerORM/blob/master/images/Captura.JPG)
